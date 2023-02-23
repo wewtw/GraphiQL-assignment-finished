@@ -141,7 +141,7 @@ app.listen(5500, () => console.log("Running Graphql on Port:" + port));
 module.exports = root;
 
 /* 
-
+Once started go inside the GQL UI insert the code below to use the server side code functionality.
 
 #restaurant: This gets a single restaurant based on a provided ID. 
 #{
